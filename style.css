@@ -1,1 +1,13 @@
-p { color:green; }
+p { color:rgb(86, 168, 86); }
+
+.color{
+     color:rgb(45, 100, 18);	
+}
+
+.uppercase{
+text-transform: uppercase;
+}
+body {
+     background-color: rgb(219, 224, 226);
+     /* background-image: url("nlp.png"); */
+   }
